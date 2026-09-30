@@ -104,7 +104,7 @@ Note: `openai/gpt-oss-20b` is a reasoning model — it can spend part of its tok
 * **Requests**
 * **Beautiful Soup**
 * **Sentence Transformers** (`all-MiniLM-L6-v2`)
-* **scikit-learn / sentence-transformers <code>util.semantic_search</code></strong>
+* **scikit-learn / sentence-transformers** <code>util.semantic_search</code></strong>
 * <strong>Groq API</strong> (<code>openai/gpt-oss-20b</code>)
 
 
